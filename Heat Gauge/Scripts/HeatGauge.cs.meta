@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 7b2cc4f598842fb4e97c80ef407d2df9
+timeCreated: 1501811932
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - lowHeat: {fileID: 1083784146400940, guid: e1121a9e893836f47abf95359368298f, type: 2}
+  - midHeat: {fileID: 1692494584996508, guid: 8e88398822b16f04694ddd0699f5c47f, type: 2}
+  - highHeat: {fileID: 1762598616957728, guid: f3b1ff8f159bcb744af4c05410a105a3, type: 2}
+  - Gauge: {fileID: 1371996145445890, guid: f2668baa4cff3ee4fbb8a30726098e27, type: 2}
+  - cursor: {fileID: 1781760632705332, guid: 8271e9d015732b7479f823f9d4797bfb, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

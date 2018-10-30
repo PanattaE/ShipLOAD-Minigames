@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: fbc8a8007f919ee49acf29593ecd4a56
+timeCreated: 1501730136
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - letterDropA: {fileID: 1647276947756040, guid: 0ae7fbdd47aa93c4ba6683150178e224,
+      type: 2}
+  - letterDropS: {fileID: 1330365798576268, guid: ebf6c34558178844f9c0f7b180bf53ab,
+      type: 2}
+  - letterDropW: {fileID: 1809257920958096, guid: 5e85a12ebb0d5864db78e8bbeaa53fda,
+      type: 2}
+  - letterDropD: {fileID: 1445637707630360, guid: 64231685c31f8aa4dab945b106d1f30d,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
